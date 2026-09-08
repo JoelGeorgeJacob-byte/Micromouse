@@ -118,4 +118,4 @@ The robot was tested and tuned through multiple iterations, with each stage used
 * `README.md` - Documentation and project overview.
 * `Micromouse_Top.jpeg` - Photo of the top view.
 * `Micromouse_Bottom.jpeg` - Photo of the bottom view.
-* `Micromouse_Schematic.kicad_sch` - Raw PCB schematic file.
+* `Micromouse_Gerber.zip` - Raw PCB Gerber file.
