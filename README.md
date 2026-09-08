@@ -104,9 +104,9 @@ The robot was tested and tuned through multiple iterations, with each stage used
 
 ## Build / Run
 
-The repository contains the firmware and project files required to build and operate the Micromouse.
-
-[Add wiring diagram, pin mapping, and setup instructions here]
+### Pin Mapping (ESP32)
+### PCB Schematic
+![Micromouse PCB Schematic]()
 
 ### Basic Setup
 
