@@ -6,8 +6,10 @@ The robot combines distance sensing, wheel encoders, and an IMU to control its m
 
 ## Demo
 
-![Top View](<Micromouse_Top.jpeg>)
+
+<img src="Micromouse_Top.jpeg" width="400">
 ![Bottom View](<Micromouse_Bottom.jpeg>)
+<img src="Micromouse_Bottom.jpeg" width="400">
 
 ## Hardware
 
