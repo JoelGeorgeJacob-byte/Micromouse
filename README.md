@@ -102,12 +102,6 @@ The project involved the development and integration of:
 
 The robot was tested and tuned through multiple iterations, with each stage used to identify and correct mechanical, electrical, sensing, and control-related issues.
 
-## Build / Run
-
-### Pin Mapping (ESP32)
-### PCB Schematic
-![Micromouse PCB Schematic]()
-
 ### Basic Setup
 
 1. Assemble the chassis, motors, sensors, encoders, and motor driver.
@@ -120,4 +114,8 @@ The robot was tested and tuned through multiple iterations, with each stage used
 
 ## Project Structure
 
-[Add repository folder structure here]
+* `Micromouse_Code.ino` - Main C++ firmware for the ESP32 (motor control, PID, and navigation).
+* `README.md` - Documentation and project overview.
+* `Micromouse_Top.jpeg` - Photo of the top view.
+* `Micromouse_Bottom.jpeg` - Photo of the bottom view.
+* `Micromouse_Schematic.kicad_sch` - Raw PCB schematic file.
