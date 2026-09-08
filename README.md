@@ -6,8 +6,8 @@ The robot combines distance sensing, wheel encoders, and an IMU to control its m
 
 ## Demo
 
-![Top View](WhatsApp Image 2026-09-08 at 4.34.10 PM.jpeg)
-![Bottom View](WhatsApp Image 2026-09-08 at 4.34.10 PM (1).jpeg)
+![Top View](<WhatsApp Image 2026-09-08 at 4.34.10 PM.jpeg>)
+![Bottom View](<WhatsApp Image 2026-09-08 at 4.34.10 PM (1).jpeg>)
 
 ## Hardware
 
